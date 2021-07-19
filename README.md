@@ -1,0 +1,1 @@
+![parallax-website](Animation.gif)
