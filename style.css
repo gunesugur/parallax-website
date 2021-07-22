@@ -45,6 +45,8 @@ a{
     top:50%;
     width:100%;
     text-align:center;
+    word-spacing:10px;
+    line-height:50px;
 }
 span{
     color:#F77F00;
